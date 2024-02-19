@@ -13,7 +13,7 @@ export default function Home() {
             ObservDev®
           </p>
           <p className="text-xl bg-clip-text text-transparent drop-shadow-2xl bg-gradient-to-b from-white to-white/20">
-            Desarrollo y Consultoría Informática
+          Desarrollo Web3, Consultoría, Gestión de Proyectos
           </p>
           <p className="text-sm bg-clip-text text-transparent drop-shadow-2xl bg-gradient-to-b from-white to-white/20">
             Hacemos tus sueños realidad
