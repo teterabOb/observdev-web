@@ -20,7 +20,7 @@ export default function Home() {
           </p>
           <p className="flex flex-row space-x-1.5 items-center justify-center pt-5">
             <span
-              onClick={() => window.open("https://www.youtube.com/@observdev", "_blank")}
+              onClick={() => window.open("https://www.youtube.com/@gilbertsahumada", "_blank")}
               className="border rounded-full p-1.5  border-white/30 hover:border-white pointer-events-auto cursor-pointer">
               <FaYoutube className="size-6" />
             </span>
@@ -31,7 +31,7 @@ export default function Home() {
             </span>
             <span
 
-              onClick={() => window.open("https://twitter.com/teterabOb", "_blank")}
+              onClick={() => window.open("https://twitter.com/gilbertsahumada", "_blank")}
               className="border rounded-full p-1.5 border-white/30 hover:border-white pointer-events-auto cursor-pointer">
               <FaTwitter className="size-6" />
             </span>
